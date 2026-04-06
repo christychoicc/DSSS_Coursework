@@ -4,5 +4,7 @@ This is a repository for coursework submission for CASA0006 Data Science for Spa
 ## Data
 | Dataset | Source |
 |----------|----------|
-| Road Safety Data (UK)   | [View Dataset](https://www.gov.uk/government/statistical-data-sets/road-safety-open-data)   |
+| Road Safety Data (UK) - Collision   | [View Dataset](https://www.gov.uk/government/statistical-data-sets/road-safety-open-data)   |
+| Road Safety Data (UK) - Casualty   | [View Dataset](https://www.gov.uk/government/statistical-data-sets/road-safety-open-data)   |
+|  |  |
 
