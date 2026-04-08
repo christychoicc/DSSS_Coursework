@@ -2,7 +2,7 @@
 This is a repository for coursework submission for CASA0006 Data Science for Spatial Systems.
 
 ## Data
-*Data will be filtered for our study area - London and pedestrians involved collisions only.
+*Data will be filtered for our study area, London and pedestrians involved collisions only.
 
 | Dataset | File Name | Source |
 |----------|----------|----------|
