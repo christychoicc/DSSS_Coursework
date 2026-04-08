@@ -2,6 +2,7 @@
 This is a repository for coursework submission for CASA0006 Data Science for Spatial Systems.
 
 ## Data
+* Data will be filtered for our study area - London and pedestrians involved collisions only. 
 | Dataset | File Name | Source |
 |----------|----------|----------|
 | Road Safety Data (UK) - Collision | [dft-road-casualty-statistics-collision-2024.csv](https://raw.githubusercontent.com/christychoicc/DSSS_Coursework/main/dft-road-casualty-statistics-collision-2024.csv)| [View Link](https://www.gov.uk/government/statistical-data-sets/road-safety-open-data)   |
