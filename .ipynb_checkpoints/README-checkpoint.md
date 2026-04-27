@@ -1,0 +1,13 @@
+# CASA0006 Data Science for Spatial Systems Coursework 
+This is a repository for coursework submission for CASA0006 Data Science for Spatial Systems.
+
+## Data
+
+| Dataset | File Name | Source |
+|----------|----------|----------|
+| Road Safety Data (UK) - Collision | [dft-road-casualty-statistics-collision-2024.csv](https://raw.githubusercontent.com/christychoicc/DSSS_Coursework/main/dft-road-casualty-statistics-collision-2024.csv)| [View Link](https://www.gov.uk/government/statistical-data-sets/road-safety-open-data)   |
+| Road Safety Data (UK) - Casualty | [dft-road-casualty-statistics-casualty-2024.csv](https://raw.githubusercontent.com/christychoicc/DSSS_Coursework/main/dft-road-casualty-statistics-casualty-2024.csv) | [View Link](https://www.gov.uk/government/statistical-data-sets/road-safety-open-data)   |
+|Road Safety Data (UK) - Vehicle|[dft-road-casualty-statistics-vehicle-2024.csv](https://raw.githubusercontent.com/christychoicc/DSSS_Coursework/main/dft-road-casualty-statistics-vehicle-2024.csv) |[View Link](https://www.gov.uk/government/statistical-data-sets/road-safety-open-data) |
+| OS Open Greenspace | [OS-Open-Greenspace-GB/GB_AccessPoint.shp](https://raw.githubusercontent.com/christychoicc/DSSS_Coursework/main/OS-Open-Greenspace-GB/GB_AccessPoint.shp) | [View Link](https://osdatahub.os.uk/data/downloads/open/OpenGreenspace?_gl=1*lcmfh4*_ga*ODk4MTE3Nzk4LjE3NzU1ODM0ODg.*_ga_59ZBN7DVBG*czE3NzU1ODM0ODckbzEkZzAkdDE3NzU1ODM2NDgkajYwJGwwJGgw) |
+|London LSOA Boundary Data|[LSOA_2011_London_gen_MHW.shp](https://raw.githubusercontent.com/christychoicc/DSSS_Coursework/main/london_LSOA_boundary/LSOA_2011_London_gen_MHW.shp)|[View Link](https://data.london.gov.uk/dataset/statistical-gis-boundary-files-for-london-20od9/)|
+|Lower layer Super Output Area population estimates|Original Downloaded Dataset: [sapelsoasyoa20222024.xlsx](https://www.ons.gov.uk/file?uri=/peoplepopulationandcommunity/populationandmigration/populationestimates/datasets/lowersuperoutputareamidyearpopulationestimates/mid2022revisednov2025tomid2024/sapelsoasyoa20222024.xlsx) Pre-loaded and Filtered Dataset: [lsoa_pop_london_2024.csv](https://www.ons.gov.uk/file?uri=/peoplepopulationandcommunity/populationandmigration/populationestimates/datasets/lowersuperoutputareamidyearpopulationestimates/mid2022revisednov2025tomid2024/sapelsoasyoa20222024.xlsx)|[View Link](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/datasets/lowersuperoutputareamidyearpopulationestimates)|
